@@ -1,0 +1,1 @@
+# Tarea6![README md](https://github.com/ISPC-TST-ARQUITECTURA-Y-CONECTIVIDAD/Tarea6/assets/108839778/a47ed4f8-ce11-4790-adf4-51b7706dc27b)
