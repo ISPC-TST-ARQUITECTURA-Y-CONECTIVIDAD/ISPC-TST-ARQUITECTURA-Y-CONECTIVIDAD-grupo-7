@@ -18,7 +18,7 @@
 
 # $\textcolor{green}{Módulo\ III:}$
 
-# $\textcolor{red}{Arquitectura\ en\ Redes\ IoT\ -\ Comunicaciones\ de\ Bajo\ Consumo }$
+# $\textcolor{red}{Arquitectura\ en\ Redes\ IoT -\ Comunicaciones\ de\ Bajo\ Consumo }$
 
 Cada práctica se desarrollará en forma grupal, debiendo subir el
 desarrollo de la misma al repositorio (respetando la estructura de
